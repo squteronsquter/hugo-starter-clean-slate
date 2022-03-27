@@ -45,3 +45,8 @@ hugo
 hugo server
 
 ```
+## More on Ananke theme configuration:
+
+```
+https://themes.gohugo.io/themes/gohugo-theme-ananke/
+```
